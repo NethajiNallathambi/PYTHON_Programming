@@ -1,6 +1,6 @@
-num1 = (input("Enter the num1 number: "))
-num2 = (input("Enter  the num2 number: "))
-num3 = (input("Enter  the num3  number: "))
+num1 = (input("Enter the num1 : "))
+num2 = (input("Enter  the num2: "))
+num3 = (input("Enter  the num3: "))
  
 if (num1 > num2) and (num1 > num3):
    largest = num1
